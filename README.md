@@ -1,2 +1,2 @@
 # FPGA Project Repo description 
-This repo will contain various FPGA projects. The associate folder for each project will contain additional information regarding the scope and purpose of each project. Each project will contain a .tcl script to be used for recreating the project as well as any source files needed during the rebuild of each project. 
+This repo will contain various FPGA projects each developed on the Nexys A7 100t development board. The associate folder for each project will contain additional information regarding the scope and purpose of each project. Each project will contain a .tcl script to be used for recreating the project as well as any source files needed during the rebuild of each project. 
